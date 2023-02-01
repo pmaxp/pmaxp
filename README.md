@@ -2,7 +2,7 @@
 
 ## I'm a Date Analyst!
 
-<img align="right" alt="Python" width="200px" src="https://raw.githubusercontent.com/pmaxp/pmaxp/main/img/pmaxp_da.svg" /> 
+<img align="right" alt="Python" title="Honestly redrawn icon" width="200px" src="https://raw.githubusercontent.com/pmaxp/pmaxp/main/img/pmaxp_da.svg" /> 
 
 - 🥅 Goals for 2023: Immerse yourself in Deep Learning, implement your own project.
 - ⚡ Fun fact: Before Analytics, I worked as a designer for more than 15 years.
