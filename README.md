@@ -7,6 +7,11 @@
 - 🥅 Goals for 2023: Immerse yourself in Deep Learning, implement your own project.
 - ⚡ Fun fact: Before Analytics, I worked as a designer for more than 15 years.
 
+<br />
+
+### [<span style="font-size=20px">🎓📃</span> Yandex.Practicum diploma](https://github.com/pmaxp/portfolio_da/blob/main/Maksim_Popov_20232DA00087_ENG.pdf)
+<br />
+
 ### Connect with me:
 [<img align="left" title="Telegram" alt="pmaxp | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />][Telegram]
 [<img align="left" title="Gmail" alt="pmaxp | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][Gmail]
