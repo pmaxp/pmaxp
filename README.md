@@ -10,7 +10,10 @@
 <br />
 
 ### [<span style="font-size=20px">🎓📃</span> Yandex.Practicum diploma](https://github.com/pmaxp/portfolio_da/blob/main/Maksim_Popov_20232DA00087_ENG.pdf)
+
+#### [<span style="font-size=20px">🗂</span> My Data Analysis Portfolio](https://github.com/pmaxp/portfolio_da/)
 <br />
+
 
 ### Connect with me:
 [<img align="left" title="Telegram" alt="pmaxp | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />][Telegram]
